@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498452088 source:d:\giusv\c\learn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
